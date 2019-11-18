@@ -1,2 +1,0 @@
-# Rocnikovka
-Created with CodeSandbox
